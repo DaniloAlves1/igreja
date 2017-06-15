@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Igreja",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,13 +23,15 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 9,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "IPJSM",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -170,23 +172,6 @@
           },
           "title": "INFORMAÇÃO<br>",
           "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_tags": [
