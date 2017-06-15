@@ -230,9 +230,9 @@
           "title": "CONTATO DA IGREJA<br><br>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "action": "danil.martins13@yahoo.com.br",
+            "action": "igrejasempreomesmo@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigado pela sua messagem! Entre em contato."
             },
             "fields": {
               "name": {
@@ -256,7 +256,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR<br><br></a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR<br></a>"
         },
         {
           "_tags": [
